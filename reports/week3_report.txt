@@ -1,5 +1,0 @@
-Week 3 Status Report
-Developed the core Python network automation backup script using the Paramiko library.
-Implemented an automated date-stamping naming convention (router_name_date.txt).
-Included try/except error handling to catch timeout and authentication exceptions gracefully without crashing execution.
-Successfully verified script stability and syntax structure locally.
